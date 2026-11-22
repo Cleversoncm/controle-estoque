@@ -7,7 +7,7 @@ Projeto desenvolvido em Python para gerenciamento de produtos, controle de quant
 * `estoque.py` — Cadastro, consulta, venda e remoção de produtos.
 * `produtos_criticos.py` — Monitoramento de itens abaixo do estoque mínimo.
 * `banco_estoque.json` — Base de dados local em formato JSON.
-
+* Atualiza Direto pelo navegador
 ## 💻 Como executar
 
 ```bash
