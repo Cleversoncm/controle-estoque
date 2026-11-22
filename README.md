@@ -13,3 +13,4 @@ Projeto desenvolvido em Python para gerenciamento de produtos, controle de quant
 ```bash
 python3 estoque.py
 ```
+Autor: Cleverson
