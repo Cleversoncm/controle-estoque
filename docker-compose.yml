@@ -1,0 +1,8 @@
+services:
+  estoque:
+    build: .
+    container_name: sistema-estoque
+    volumes:
+      - .:/app
+    stdin_open: true
+    tty: true
